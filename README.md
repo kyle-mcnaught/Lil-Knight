@@ -1,2 +1,2 @@
 # Lil-Knight
-# A small RPG demo, I created.
+# A small RPG demo that I created.
